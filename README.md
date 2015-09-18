@@ -2,7 +2,7 @@
 
 **Course:** Galactic Astronomy - Fall, 2015
 
-**Instructors:** Prof. Eric Peng 彭逸西 <peng@pku.edu.cn>, Ms. Yiqing Liu 刘逸清 <yiqing.liu@pku.edu.cn>
+**Instructors:** Prof. [Eric Peng 彭逸西](http://kiaa.pku.edu.cn/~peng) <peng@pku.edu.cn>, Ms. Yiqing Liu 刘逸清 <yiqing.liu@pku.edu.cn>
 
 **Course Description**
 
@@ -16,7 +16,7 @@ This class is structured around student-led projects, student presentations, and
 
    * This course does not assume any prior astronomy coursework, but those with no astronomy background will be expected to acquire quickly the relevant terminology used in astronomy and astrophysics.
 
-   * Basic computer programming and plotting skills. Previous knowledge of Python is not required, but all work will be done in Python. To learn some relevant Python, a few useful web sites include: https://python4astronomers.github.io, http://www.astropython.org/, and http://www.astropy.org/.
+   * Basic computer programming and plotting skills. Previous knowledge of Python is not required, but all work will be done in Python. To learn some relevant Python, a few useful web sites include: [Python for Astronomers](https://python4astronomers.github.io), [AstroPython](http://www.astropython.org/), and [Astropy](http://www.astropy.org/).
    * The course will be taught assuming that the following graduate courses are being taken concurrently (as is usual in the PKU schedule): Stellar Structure and Evolution, and Cosmology.
 
 **Course Overview**
@@ -39,6 +39,10 @@ This course will explore the observational and theoretical underpinnings of our 
    * Galactic nuclei
 
 This will not be a traditional lecture course, but one where students help lead the direction that the class follows. A significant amount of class time will be devoted to projects, assignments, and debates.
+
+**References**
+   * [Galaxy Formation and Evolution](http://www.amazon.com/Galaxy-Formation-Evolution-Houjun-Mo/dp/0521857937), by Houjun Mo, Frank van den Bosch, and Simon White - This will be the main textbook for the class.
+   * [Astrophysics Data Service (ADS)](http://adsabs.harvard.edu/abstract_service.html)
 
 **Projects and Assignments**
 
